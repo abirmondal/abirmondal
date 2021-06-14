@@ -4,7 +4,7 @@
 **Interests** : Programming | Maths | Psychology | Graphology | Spirituality <br>
 **Languages** : C | C++ | Python | HTML | CSS | JavaScript | PHP <br>
 
-# Contact Me
+<!-- # Contact Me
 
 
 <!-- Interests : Programming -->
