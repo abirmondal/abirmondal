@@ -1,6 +1,12 @@
-### ALOHAF 👋
+# ALOHAF 👋
 
-Name : Abir Mondal
+**Name** : Abir Mondal <br>
+**Interests** : Programming | Maths | Psychology | Graphology | Spirituality <br>
+**Languages** : C | C++ | Python | HTML | CSS | JavaScript | PHP <br>
+
+# Contact Me
+
+
 <!-- Interests : Programming -->
 <!--
 **abirmondal/abirmondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
