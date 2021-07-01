@@ -1,8 +1,8 @@
 # ALOHAF 👋
 
 **Name** : Abir Mondal <br>
-**Interests** : Programming | Maths | Psychology | Graphology | Spirituality <br>
-**Languages** : C | C++ | Python | HTML | CSS | JavaScript | PHP <br>
+**Interests** : Programming | Web Designing | Maths | Psychology | Graphology | Spirituality <br>
+**Languages** : C | C++ | Python | JavaScript | PHP <br>
 
 <!-- # Contact Me
 
